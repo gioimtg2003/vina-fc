@@ -50,7 +50,7 @@ export default function Navbar() {
                         className="px-5 py-2 cursor-pointer rounded-full bg-cyan-500/10 text-cyan-400 border border-cyan-500/50 hover:bg-cyan-500/20 hover:shadow-[0_0_15px_-3px_rgba(6,182,212,0.4)] transition-all font-medium text-sm"
                         aria-label="Đăng ký nhận hàng trước"
                     >
-                        Đăng hàng trước
+                        Đặt hàng trước
                     </motion.a>
                 </div>
 

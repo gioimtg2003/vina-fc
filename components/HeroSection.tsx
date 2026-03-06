@@ -44,7 +44,6 @@ export default function HeroSection() {
                     <span className="text-gradient inline-block">FC</span>
                 </motion.h1>
 
-                {/* SEO-rich tagline below H1 */}
                 <motion.p
                     initial={{ opacity: 0, y: 10 }}
                     animate={{ opacity: 1, y: 0 }}
